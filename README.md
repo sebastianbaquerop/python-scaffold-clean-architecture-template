@@ -1,4 +1,4 @@
-# FullStack Challenge Notifications
+# Fast API Scaffold Clean Architecture Template
 
 {description}
 
